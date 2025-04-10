@@ -1,6 +1,6 @@
 <!-- Animação no topo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0:4052D6,100:1591EAA&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;Technology+Lover;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00,&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;Technology+Lover;Nerd" alt="Typing SVG" />
 </p>
 
 <!-- Linha animada -->
