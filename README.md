@@ -33,8 +33,8 @@
 ---
 
 <p>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=gabmajeau&show_icons=true&theme=yeblu" />
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmajeau&layout=compact&theme=yeblu"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabmajeau&show_icons=true&theme=yeblu" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmajeau&layout=compact&theme=yeblu"/>
 </p>
 
 ---
