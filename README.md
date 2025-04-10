@@ -1,24 +1,16 @@
 <!-- Animação no topo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Gabriel+Majeau;Desenvolvedor+Web;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+-+PUC+Minas;Apaixonado+por+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0:4052D6,100:1591EAA&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;Technology+Lover;" alt="Typing SVG" />
 </p>
 
 <!-- Linha animada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4052D6,100:1591EA&height=150&section=header&text=Welcome!&fontSize=35&fontColor=FFFF00&animation=fadeIn" />  
 </p>
-
---- 
-
-### 👨‍💻 Sobre mim
-
-🎓 Estudante de **Ciência da Computação** na **PUC Minas**  
-🛠️ Buscando colaborar em projetos que transformam ideias em soluções digitais  
-🚀 Sempre aprendendo e evoluindo
+<p align="center" > - Computing is not about computers anymore. It's about living -</br>  </p>
 
 ---
-
-### 🧰 Tecnologias que utilizo
+<h2 align="center" size="300px">Tools i've used:</h2>
 
 <div style="display: flex; flex-wrap: wrap;" align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -30,19 +22,25 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
+--- 
+
+### About me
+
+- Student of **Computer Science** on **PUC Minas**
+- Focus on Frontend and ML
+- Always trying to grow as a person and as a professional 
+ 
 ---
 
-### 📊 Estatísticas do GitHub
-
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabmajeau&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmajeau&layout=compact&theme=radical"/>
-
+<p>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=gabmajeau&show_icons=true&theme=yeblu" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmajeau&layout=compact&theme=yeblu"/>
+</p>
 
 ---
 
 
-### 🌐 Onde me encontrar
+### Find me!
 
 <!-- Substitua os links abaixo pelos seus -->
 
@@ -54,5 +52,5 @@
 
 <!-- Linha inferior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4052D6,100:1591EA&height=120&section=footer&text=Hope+you+enjoy!&fontSize=25&fontColor=FFFF00&animation=fadeIn"/>
 </p>
