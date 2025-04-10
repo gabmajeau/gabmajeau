@@ -1,6 +1,6 @@
 <!-- Animação no topo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00,&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;Technology+Lover;Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00,&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;Nerd+Spotted!" alt="Typing SVG" />
 </p>
 
 <!-- Linha animada -->
@@ -10,7 +10,7 @@
 <p align="center" > - Computing is not about computers anymore. It's about living -</br>  </p>
 
 ---
-<h2 align="center" size="300px">Tools i've used:</h2>
+<h2 align="center" size="300px">My Stack:</h2>
 
 <div style="display: flex; flex-wrap: wrap;" align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 --- 
 
-### About me
+### About me:
 
 - Student of **Computer Science** on **PUC Minas**
 - Focus on Frontend and ML
