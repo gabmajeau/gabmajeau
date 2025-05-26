@@ -10,7 +10,7 @@
 <p align="center" > - Computing is not about computers anymore. It's about living -</br>  </p>
 
 ---
-<h2 align="center" size="300px">My Portifoloio: https://gabmajeau.github.io/portifolio/</h2>
+<h2 align="center" size="300px">My Portifolio: https://gabmajeau.github.io/portifolio/</h2>
 
 <div style="display: flex; flex-wrap: wrap;" align="center">
   
