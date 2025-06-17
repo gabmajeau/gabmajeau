@@ -30,7 +30,7 @@
 ### About me:
 
 - Student of **Computer Science** on **PUC Minas**
-- Focus on Frontend and ML
+- Focus on Frontend
 - Always trying to grow as a person and as a professional 
  
 ---
