@@ -1,11 +1,11 @@
 <!-- Animação no topo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00,&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;Nerd+Spotted!;Love+frontend;HTML+and+CSS;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF,&center=true&vCenter=true&width=500&lines=Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;Nerd+Spotted!;Love+frontend;HTML+and+CSS;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;" alt="Typing SVG" />
 </p>
 
 <!-- Linha animada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4052D6,100:1591EA&height=150&section=header&text=Welcome!&fontSize=35&fontColor=FFFF00&animation=fadeIn" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4052D6,100:1591EA&height=150&section=header&text=Welcome!&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />  
 </p>
 <p align="center" > - Computing is not about computers anymore. It's about living -</br>  </p>
 
@@ -57,5 +57,5 @@
 
 <!-- Linha inferior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4052D6,100:1591EA&height=120&section=footer&text=Hope+you+enjoy!&fontSize=25&fontColor=FFFF00&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4052D6,100:1591EA&height=120&section=footer&text=Hope+you+enjoy!&fontSize=25&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
