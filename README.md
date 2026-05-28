@@ -131,7 +131,7 @@ system integrations.
 <img src="https://img.shields.io/badge/PORTFOLIO-609fd3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/gabrielmajeau">
+<a href="https://www.linkedin.com/in/gabrielmajeau/">
 <img src="https://img.shields.io/badge/LINKEDIN-1d1d1d?style=for-the-badge&logo=linkedin&logoColor=609fd3"/>
 </a>
 
