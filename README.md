@@ -1,14 +1,9 @@
 <p align="center">
-  <img src="banner.png" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3500&pause=800&color=609FD3&center=true&vCenter=true&width=900&lines=Hello+World!;Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;Nerd+Spotted!;Skadoosh;U/X;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;For+Frodo!!!." />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3500&pause=800&color=609FD3&center=true&vCenter=true&width=900&lines=Hello+World!;Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;Nerd+Spotted!;Skadoosh;UX/UI;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;For+Frodo!!!." />
 </p>
 
 <h3 align="center" font=Outfit>
-• Product Design • UX/UI • Frontend • Backend • Data • Machine Learning •
+• Product Design • UX/UI • Frontend • Backend • Data & ML •
 </h3>
 
 ---
@@ -119,11 +114,10 @@ system integrations.
 <div align="center">
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabmajeau&show_icons=true&theme=transparent&title_color=609fd3&text_color=d9d9d9&icon_color=609fd3&border_color=609fd3"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmajeau&layout=compact&title_color=609fd3&text_color=d9d9d9&border_color=609fd3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabmajeau&show_icons=true&theme=transparent&hide_border=true"/>
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmajeau&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -145,9 +139,9 @@ system integrations.
 
 
 
-<div align="center" font=Outfit>
-
-### "_All we have to decide is what to do with the time that is given us"_ - Gandalf, the grey
+<div align="center" font=Outfit> 
+  
+### "_All we have to decide is what to do with the time that is given us"_ - Gandalf, the grey 
 
 </div>
 
