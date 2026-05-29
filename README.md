@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="./master-sword.gif" width="500"/>
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3500&pause=800&color=609FD3&center=true&vCenter=true&width=900&lines=Hello+World!;Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;Nerd+Spotted!;Skadoosh;UX/UI;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;For+Frodo!!!." />
 </p>
 
@@ -111,17 +117,6 @@ system integrations.
 
 ---
 
-<div align="center">
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabmajeau&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmajeau&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
 
 
 
