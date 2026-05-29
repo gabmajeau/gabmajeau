@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="./master-sword.gif" width="750"/>
-    <br>
-  <sup><i><span style="opacity:0.25;">guided by courage</span></i></sup>
+  <img src="./ms.gif" width="450"/>
+ 
 </p>
 
 
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3500&pause=800&color=609FD3&center=true&vCenter=true&width=900&lines=Hello+World!;Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;For+Azeroth!;Nerd+Spotted!;Skadoosh;UX/UI;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;For+Frodo!" />
