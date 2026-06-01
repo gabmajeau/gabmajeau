@@ -107,9 +107,9 @@ system integrations.
 
 <div align="center">
 
-<img src="./gf.gif" width="250" align="left"/>
+<img src="./gf.gif" width="220" align="left"/>
 
-<img src="./dp.gif" width="250" align="right"/>
+<img src="./dp.gif" width="220" align="right"/>
 
 | • | • | • | • |
 |:---:|:---:|:---:|:---:|
