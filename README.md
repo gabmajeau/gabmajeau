@@ -114,7 +114,7 @@ system integrations.
 | • | • | • | • |
 |:---:|:---:|:---:|:---:|
 | React | Node.js | Figma | Git |
-| JavaScript | Python | UX/UI | GitHub |
+| JavaScript | Python | UX/UI | Node |
 | Next | APIs | Product Design | Vue.js |
 | Tailwind | Databases | Prototyping | Workflow |
 | • | • | • | • |
