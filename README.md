@@ -107,14 +107,9 @@ system integrations.
 
 <div align="center">
 
-<table>
-<tr>
+<img src="./gf.gif" width="250" align="left"/>
 
-<td width="20%" align="center">
-<img src="./gf.gif" width="120"/>
-</td>
-
-<td width="60%" align="center">
+<img src="./dp.gif" width="250" align="right"/>
 
 | • | • | • | • |
 |:---:|:---:|:---:|:---:|
@@ -123,16 +118,6 @@ system integrations.
 | Next | APIs | Product Design | Vue.js |
 | Tailwind | Databases | Prototyping | Workflow |
 | • | • | • | • |
-
-</td>
-
-<td width="20%" align="center">
-<img src="./dp.gif" width="120"/>
-</td>
-
-</tr>
-</table>
-
 </div>
 
 ---
