@@ -107,12 +107,31 @@ system integrations.
 
 <div align="center">
 
-| Frontend | Backend | Design | Tools |
+<table>
+<tr>
+
+<td width="20%" align="center">
+<img src="./gf.gif" width="120"/>
+</td>
+
+<td width="60%" align="center">
+
+| • | • | • | • |
 |:---:|:---:|:---:|:---:|
 | React | Node.js | Figma | Git |
 | JavaScript | Python | UX/UI | GitHub |
 | Next | APIs | Product Design | Vue.js |
 | Tailwind | Databases | Prototyping | Workflow |
+| • | • | • | • |
+
+</td>
+
+<td width="20%" align="center">
+<img src="./dp.gif" width="120"/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
