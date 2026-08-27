@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center" font=Outfit>
-• Product Design • UX/UI • Frontend • Backend • Data & ML •
+• Fullstack •
 </h3>
 
 ---
