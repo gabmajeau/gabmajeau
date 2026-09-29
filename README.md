@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="./ms.gif" width="400"/>
+
  
 </p>
 
@@ -94,10 +93,6 @@ system integrations.
 <br>
 
 <div align="center">
-
-<img src="./gf.gif" width="220" align="left"/>
-
-<img src="./dp.gif" width="220" align="right"/>
 
 | • | • | • | • |
 |:---:|:---:|:---:|:---:|
