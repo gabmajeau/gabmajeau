@@ -3,12 +3,6 @@
  
 </p>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3500&pause=800&color=609FD3&center=true&vCenter=true&width=900&lines=Hello+World!;Yo+soy+Gabriel+Majeau!;Computer+Science;I+am+Iron+Man!;Technology+Lover;For+Azeroth!;Nerd+Spotted!;Skadoosh;UX/UI;Javascript;Wake+up,+John;Hyaaa!;Frostmourne+Hungers;For+Frodo!" />
-</p>
-
 <h3 align="center" font=Outfit>
 • Fullstack •
 </h3>
@@ -96,12 +90,6 @@ system integrations.
 
 ---
 
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,python,mysql,firebase,figma,git,github,vscode" />
-
-</div>
 
 <br>
 
